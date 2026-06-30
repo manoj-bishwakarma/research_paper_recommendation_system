@@ -1,0 +1,81 @@
+paper_id,title,author,category,keywords,abstract,link
+1,Attention Is All You Need,Ashish Vaswani et al.,NLP,"transformer,attention,deep learning","Introduces the Transformer architecture for sequence modeling.",https://arxiv.org/abs/1706.03762
+2,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,Jacob Devlin et al.,NLP,"bert,nlp,language model","Bidirectional transformer pre-training for NLP tasks.",https://arxiv.org/abs/1810.04805
+3,Language Models are Few-Shot Learners,Tom B. Brown et al.,NLP,"gpt-3,language model,nlp","Introduces GPT-3 with few-shot learning capabilities.",https://arxiv.org/abs/2005.14165
+4,Neural Machine Translation by Jointly Learning to Align and Translate,Dzmitry Bahdanau et al.,NLP,"attention,machine translation,nlp","Introduces the attention mechanism for translation.",https://arxiv.org/abs/1409.0473
+5,Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer,Colin Raffel et al.,NLP,"t5,transfer learning,nlp","Introduces the T5 text-to-text framework.",https://arxiv.org/abs/1910.10683
+6,Generative Adversarial Nets,Ian Goodfellow et al.,Machine Learning,"gan,generative models,deep learning","Introduces Generative Adversarial Networks.",https://arxiv.org/abs/1406.2661
+7,Auto-Encoding Variational Bayes,Diederik P. Kingma et al.,Machine Learning,"vae,generative models,probability","Introduces Variational Autoencoders.",https://arxiv.org/abs/1312.6114
+8,Adam: A Method for Stochastic Optimization,Diederik P. Kingma et al.,Machine Learning,"adam,optimization,deep learning","Introduces the Adam optimization algorithm.",https://arxiv.org/abs/1412.6980
+9,Dropout: A Simple Way to Prevent Neural Networks from Overfitting,Nitish Srivastava et al.,Machine Learning,"dropout,regularization,neural networks","Introduces dropout regularization.",https://jmlr.org/papers/v15/srivastava14a.html
+10,XGBoost: A Scalable Tree Boosting System,Tianqi Chen et al.,Machine Learning,"xgboost,gradient boosting,machine learning","Introduces the XGBoost algorithm.",https://arxiv.org/abs/1603.02754
+11,Deep Residual Learning for Image Recognition,Kaiming He et al.,Computer Vision,"resnet,cnn,image classification","Introduces residual neural networks.",https://arxiv.org/abs/1512.03385
+12,Very Deep Convolutional Networks for Large-Scale Image Recognition,Karen Simonyan et al.,Computer Vision,"vgg,cnn,image recognition","Introduces the VGG architecture.",https://arxiv.org/abs/1409.1556
+13,ImageNet Classification with Deep Convolutional Neural Networks,Alex Krizhevsky et al.,Computer Vision,"alexnet,cnn,imagenet","Introduces AlexNet.",https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
+14,YOLOv4: Optimal Speed and Accuracy of Object Detection,Alexey Bochkovskiy et al.,Computer Vision,"yolo,object detection,computer vision","Real-time object detection framework.",https://arxiv.org/abs/2004.10934
+15,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,Alexey Dosovitskiy et al.,Computer Vision,"vision transformer,vit,image classification","Introduces Vision Transformers.",https://arxiv.org/abs/2010.11929
+16,Playing Atari with Deep Reinforcement Learning,Volodymyr Mnih et al.,Reinforcement Learning,"dqn,reinforcement learning,atari","Introduces Deep Q-Networks.",https://arxiv.org/abs/1312.5602
+17,Human-level Control Through Deep Reinforcement Learning,Volodymyr Mnih et al.,Reinforcement Learning,"dqn,deep reinforcement learning","Human-level Atari gameplay with DQN.",https://www.nature.com/articles/nature14236
+18,Mastering the Game of Go with Deep Neural Networks and Tree Search,David Silver et al.,Reinforcement Learning,"alphago,go,reinforcement learning","Introduces AlphaGo.",https://www.nature.com/articles/nature16961
+19,Proximal Policy Optimization Algorithms,John Schulman et al.,Reinforcement Learning,"ppo,policy optimization,reinforcement learning","Introduces PPO algorithms.",https://arxiv.org/abs/1707.06347
+20,Trust Region Policy Optimization,John Schulman et al.,Reinforcement Learning,"trpo,policy optimization,reinforcement learning","Introduces TRPO.",https://arxiv.org/abs/1502.05477
+21,End to End Learning for Self-Driving Cars,Mariusz Bojarski et al.,Robotics,"self-driving cars,autonomous vehicles,cnn","End-to-end steering prediction.",https://arxiv.org/abs/1604.07316
+22,Dynamic Motion Planning for Mobile Robots,Oussama Khatib,Robotics,"motion planning,mobile robots,robotics","Real-time motion planning methods.",https://doi.org/10.1177/027836498600500106
+23,Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning,Sergey Levine et al.,Robotics,"robot grasping,deep learning,robotics","Deep learning for robotic grasping.",https://arxiv.org/abs/1603.02199
+24,Deep Visual Foresight for Planning Robot Motion,Chelsea Finn et al.,Robotics,"robot motion planning,deep learning","Predictive models for robot actions.",https://arxiv.org/abs/1610.00696
+25,RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control,Anthony Brohan et al.,Robotics,"vision language model,robotics,rt2","Vision-language-action model for robots.",https://arxiv.org/abs/2307.15818
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

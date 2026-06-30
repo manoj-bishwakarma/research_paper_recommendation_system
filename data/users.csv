@@ -1,0 +1,5 @@
+user_id,username,password,role,interest
+A101,Manoj,12345,Admin,AI
+U201,Shyam,12321,User,AI
+202,Harry,12121,User,Machine Learning
+M24W7343,Dipesh,Dipesh7235,User,Data Science
