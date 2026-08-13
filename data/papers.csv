@@ -1,81 +1,100 @@
 paper_id,title,author,category,keywords,abstract,link
-1,Attention Is All You Need,Ashish Vaswani et al.,NLP,"transformer,attention,deep learning","Introduces the Transformer architecture for sequence modeling.",https://arxiv.org/abs/1706.03762
-2,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,Jacob Devlin et al.,NLP,"bert,nlp,language model","Bidirectional transformer pre-training for NLP tasks.",https://arxiv.org/abs/1810.04805
-3,Language Models are Few-Shot Learners,Tom B. Brown et al.,NLP,"gpt-3,language model,nlp","Introduces GPT-3 with few-shot learning capabilities.",https://arxiv.org/abs/2005.14165
-4,Neural Machine Translation by Jointly Learning to Align and Translate,Dzmitry Bahdanau et al.,NLP,"attention,machine translation,nlp","Introduces the attention mechanism for translation.",https://arxiv.org/abs/1409.0473
-5,Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer,Colin Raffel et al.,NLP,"t5,transfer learning,nlp","Introduces the T5 text-to-text framework.",https://arxiv.org/abs/1910.10683
-6,Generative Adversarial Nets,Ian Goodfellow et al.,Machine Learning,"gan,generative models,deep learning","Introduces Generative Adversarial Networks.",https://arxiv.org/abs/1406.2661
-7,Auto-Encoding Variational Bayes,Diederik P. Kingma et al.,Machine Learning,"vae,generative models,probability","Introduces Variational Autoencoders.",https://arxiv.org/abs/1312.6114
-8,Adam: A Method for Stochastic Optimization,Diederik P. Kingma et al.,Machine Learning,"adam,optimization,deep learning","Introduces the Adam optimization algorithm.",https://arxiv.org/abs/1412.6980
-9,Dropout: A Simple Way to Prevent Neural Networks from Overfitting,Nitish Srivastava et al.,Machine Learning,"dropout,regularization,neural networks","Introduces dropout regularization.",https://jmlr.org/papers/v15/srivastava14a.html
-10,XGBoost: A Scalable Tree Boosting System,Tianqi Chen et al.,Machine Learning,"xgboost,gradient boosting,machine learning","Introduces the XGBoost algorithm.",https://arxiv.org/abs/1603.02754
-11,Deep Residual Learning for Image Recognition,Kaiming He et al.,Computer Vision,"resnet,cnn,image classification","Introduces residual neural networks.",https://arxiv.org/abs/1512.03385
-12,Very Deep Convolutional Networks for Large-Scale Image Recognition,Karen Simonyan et al.,Computer Vision,"vgg,cnn,image recognition","Introduces the VGG architecture.",https://arxiv.org/abs/1409.1556
-13,ImageNet Classification with Deep Convolutional Neural Networks,Alex Krizhevsky et al.,Computer Vision,"alexnet,cnn,imagenet","Introduces AlexNet.",https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
-14,YOLOv4: Optimal Speed and Accuracy of Object Detection,Alexey Bochkovskiy et al.,Computer Vision,"yolo,object detection,computer vision","Real-time object detection framework.",https://arxiv.org/abs/2004.10934
-15,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,Alexey Dosovitskiy et al.,Computer Vision,"vision transformer,vit,image classification","Introduces Vision Transformers.",https://arxiv.org/abs/2010.11929
-16,Playing Atari with Deep Reinforcement Learning,Volodymyr Mnih et al.,Reinforcement Learning,"dqn,reinforcement learning,atari","Introduces Deep Q-Networks.",https://arxiv.org/abs/1312.5602
-17,Human-level Control Through Deep Reinforcement Learning,Volodymyr Mnih et al.,Reinforcement Learning,"dqn,deep reinforcement learning","Human-level Atari gameplay with DQN.",https://www.nature.com/articles/nature14236
-18,Mastering the Game of Go with Deep Neural Networks and Tree Search,David Silver et al.,Reinforcement Learning,"alphago,go,reinforcement learning","Introduces AlphaGo.",https://www.nature.com/articles/nature16961
-19,Proximal Policy Optimization Algorithms,John Schulman et al.,Reinforcement Learning,"ppo,policy optimization,reinforcement learning","Introduces PPO algorithms.",https://arxiv.org/abs/1707.06347
-20,Trust Region Policy Optimization,John Schulman et al.,Reinforcement Learning,"trpo,policy optimization,reinforcement learning","Introduces TRPO.",https://arxiv.org/abs/1502.05477
-21,End to End Learning for Self-Driving Cars,Mariusz Bojarski et al.,Robotics,"self-driving cars,autonomous vehicles,cnn","End-to-end steering prediction.",https://arxiv.org/abs/1604.07316
-22,Dynamic Motion Planning for Mobile Robots,Oussama Khatib,Robotics,"motion planning,mobile robots,robotics","Real-time motion planning methods.",https://doi.org/10.1177/027836498600500106
-23,Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning,Sergey Levine et al.,Robotics,"robot grasping,deep learning,robotics","Deep learning for robotic grasping.",https://arxiv.org/abs/1603.02199
-24,Deep Visual Foresight for Planning Robot Motion,Chelsea Finn et al.,Robotics,"robot motion planning,deep learning","Predictive models for robot actions.",https://arxiv.org/abs/1610.00696
-25,RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control,Anthony Brohan et al.,Robotics,"vision language model,robotics,rt2","Vision-language-action model for robots.",https://arxiv.org/abs/2307.15818
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1,Attention Is All You Need,Ashish Vaswani et al.,NLP,"transformer,attention,deep learning",Introduces the Transformer architecture for sequence modeling.,https://arxiv.org/abs/1706.03762
+2,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,Jacob Devlin et al.,NLP,"bert,nlp,language model",Bidirectional transformer pre-training for NLP tasks.,https://arxiv.org/abs/1810.04805
+3,Language Models are Few-Shot Learners,Tom B. Brown et al.,NLP,"gpt-3,language model,nlp",Introduces GPT-3 with few-shot learning capabilities.,https://arxiv.org/abs/2005.14165
+4,Neural Machine Translation by Jointly Learning to Align and Translate,Dzmitry Bahdanau et al.,"","attention,machine translation,nlp",Introduces the attention mechanism for translation.,https://arxiv.org/abs/1409.0473
+5,Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer,Colin Raffel et al.,NLP,"t5,transfer learning,nlp",Introduces the T5 text-to-text framework.,https://arxiv.org/abs/1910.10683
+6,Generative Adversarial Nets,Ian Goodfellow et al.,Machine Learning,"gan,generative models,deep learning",Introduces Generative Adversarial Networks.,https://arxiv.org/abs/1406.2661
+7,Auto-Encoding Variational Bayes,Diederik P. Kingma et al.,Machine Learning,"vae,generative models,probability",Introduces Variational Autoencoders.,https://arxiv.org/abs/1312.6114
+8,Adam: A Method for Stochastic Optimization,Diederik P. Kingma et al.,Machine Learning,"adam,optimization,deep learning",Introduces the Adam optimization algorithm.,https://arxiv.org/abs/1412.6980
+9,Dropout: A Simple Way to Prevent Neural Networks from Overfitting,Nitish Srivastava et al.,Machine Learning,"dropout,regularization,neural networks",Introduces dropout regularization.,https://jmlr.org/papers/v15/srivastava14a.html
+10,XGBoost: A Scalable Tree Boosting System,Tianqi Chen et al.,Machine Learning,"xgboost,gradient boosting,machine learning",Introduces the XGBoost algorithm.,https://arxiv.org/abs/1603.02754
+11,Deep Residual Learning for Image Recognition,Kaiming He et al.,Computer Vision,"resnet,cnn,image classification",Introduces residual neural networks.,https://arxiv.org/abs/1512.03385
+12,Very Deep Convolutional Networks for Large-Scale Image Recognition,Karen Simonyan et al.,Computer Vision,"vgg,cnn,image recognition",Introduces the VGG architecture.,https://arxiv.org/abs/1409.1556
+13,ImageNet Classification with Deep Convolutional Neural Networks,Alex Krizhevsky et al.,Computer Vision,"alexnet,cnn,imagenet",Introduces AlexNet.,https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
+14,YOLOv4: Optimal Speed and Accuracy of Object Detection,Alexey Bochkovskiy et al.,Computer Vision,"yolo,object detection,computer vision",Real-time object detection framework.,https://arxiv.org/abs/2004.10934
+15,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,Alexey Dosovitskiy et al.,Computer Vision,"vision transformer,vit,image classification",Introduces Vision Transformers.,https://arxiv.org/abs/2010.11929
+16,Playing Atari with Deep Reinforcement Learning,Volodymyr Mnih et al.,Reinforcement Learning,"dqn,reinforcement learning,atari",Introduces Deep Q-Networks.,https://arxiv.org/abs/1312.5602
+17,Human-level Control Through Deep Reinforcement Learning,Volodymyr Mnih et al.,Reinforcement Learning,"dqn,deep reinforcement learning",Human-level Atari gameplay with DQN.,https://www.nature.com/articles/nature14236
+18,Mastering the Game of Go with Deep Neural Networks and Tree Search,David Silver et al.,Reinforcement Learning,"alphago,go,reinforcement learning",Introduces AlphaGo.,https://www.nature.com/articles/nature16961
+19,Proximal Policy Optimization Algorithms,John Schulman et al.,Reinforcement Learning,"ppo,policy optimization,reinforcement learning",Introduces PPO algorithms.,https://arxiv.org/abs/1707.06347
+20,Trust Region Policy Optimization,John Schulman et al.,Reinforcement Learning,"trpo,policy optimization,reinforcement learning",Introduces TRPO.,https://arxiv.org/abs/1502.05477
+21,End to End Learning for Self-Driving Cars,Mariusz Bojarski et al.,Robotics,"self-driving cars,autonomous vehicles,cnn",End-to-end steering prediction.,https://arxiv.org/abs/1604.07316
+22,Dynamic Motion Planning for Mobile Robots,Oussama Khatib,Robotics,"motion planning,mobile robots,robotics",Real-time motion planning methods.,https://doi.org/10.1177/027836498600500106
+23,Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning,Sergey Levine et al.,Robotics,"robot grasping,deep learning,robotics",Deep learning for robotic grasping.,https://arxiv.org/abs/1603.02199
+25,RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control,Anthony Brohan et al.,Robotics,"vision language model,robotics,rt2",Vision-language-action model for robots.,https://arxiv.org/abs/2307.15818
+26,RoBERTa: A Robustly Optimized BERT Pretraining Approach,Yinhan Liu et al.,NLP,"roberta,bert,language model",Improves BERT pretraining using larger datasets and optimized training.,https://arxiv.org/abs/1907.11692
+27,XLNet: Generalized Autoregressive Pretraining for Language Understanding,Zhilin Yang et al.,NLP,"xlnet,transformer,nlp",Generalized autoregressive pretraining for better language understanding.,https://arxiv.org/abs/1906.08237
+28,ALBERT: A Lite BERT for Self-supervised Learning of Language Representations,Zhenzhong Lan et al.,NLP,"albert,bert,nlp",Parameter-efficient version of BERT using parameter sharing.,https://arxiv.org/abs/1909.11942
+29,ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators,Kevin Clark et al.,NLP,"electra,nlp,language model",Efficient transformer pretraining using replaced token detection.,https://arxiv.org/abs/2003.10555
+30,Sentence-BERT: Sentence Embeddings using Siamese BERT Networks,Nils Reimers and Iryna Gurevych,NLP,"sentence bert,embeddings,nlp",Produces semantically meaningful sentence embeddings.,https://arxiv.org/abs/1908.10084
+31,DenseNet: Densely Connected Convolutional Networks,Gao Huang et al.,Computer Vision,"densenet,cnn,image classification",Introduces dense connectivity between CNN layers.,https://arxiv.org/abs/1608.06993
+32,Mask R-CNN,Kaiming He et al.,Computer Vision,"mask r-cnn,instance segmentation",Extends Faster R-CNN to perform instance segmentation.,https://arxiv.org/abs/1703.06870
+33,Faster R-CNN: Towards Real-Time Object Detection,Shaoqing Ren et al.,Computer Vision,"faster r-cnn,object detection",Region Proposal Networks for fast object detection.,https://arxiv.org/abs/1506.01497
+34,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,Ze Liu et al.,Computer Vision,"swin transformer,vision transformer",Hierarchical Transformer architecture for vision tasks.,https://arxiv.org/abs/2103.14030
+35,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,Mingxing Tan and Quoc V. Le,Computer Vision,"efficientnet,cnn,image classification",Introduces compound scaling for CNNs.,https://arxiv.org/abs/1905.11946
+36,MobileNetV2: Inverted Residuals and Linear Bottlenecks,Mark Sandler et al.,Computer Vision,"mobilenet,cnn,mobile vision",Efficient CNN architecture for mobile devices.,https://arxiv.org/abs/1801.04381
+37,LightGBM: A Highly Efficient Gradient Boosting Decision Tree,Guolin Ke et al.,Machine Learning,"lightgbm,gradient boosting",Fast and efficient gradient boosting framework.,https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree
+38,CatBoost: Unbiased Boosting with Categorical Features,Liudmila Prokhorenkova et al.,Machine Learning,"catboost,gradient boosting",Gradient boosting algorithm supporting categorical features.,https://arxiv.org/abs/1706.09516
+39,Isolation Forest,Fei Tony Liu et al.,Machine Learning,"anomaly detection,isolation forest",Efficient anomaly detection using random partitioning.,https://ieeexplore.ieee.org/document/4781136
+40,Random Forests,Leo Breiman,Machine Learning,"random forest,ensemble learning",Introduces the Random Forest ensemble learning algorithm.,https://link.springer.com/article/10.1023/A:1010933404324
+41,Double Q-Learning,Hado van Hasselt,Reinforcement Learning,"double q-learning,dqn,reinforcement learning",Reduces overestimation bias in Q-learning by using Double Q-Learning.,https://papers.nips.cc/paper/3964-double-q-learning
+42,Deep Reinforcement Learning with Double Q-Learning,Hado van Hasselt et al.,Reinforcement Learning,"double dqn,reinforcement learning",Extends Double Q-Learning to Deep Q-Networks.,https://arxiv.org/abs/1509.06461
+43,Dueling Network Architectures for Deep Reinforcement Learning,Ziyu Wang et al.,Reinforcement Learning,"dueling dqn,reinforcement learning",Introduces separate value and advantage estimators for DQN.,https://arxiv.org/abs/1511.06581
+44,Rainbow: Combining Improvements in Deep Reinforcement Learning,Matteo Hessel et al.,Reinforcement Learning,"rainbow dqn,reinforcement learning",Combines several DQN improvements into one algorithm.,https://arxiv.org/abs/1710.02298
+45,Soft Actor-Critic Algorithms and Applications,Tuomas Haarnoja et al.,Reinforcement Learning,"soft actor critic,sac,reinforcement learning",Maximum entropy reinforcement learning algorithm.,https://arxiv.org/abs/1812.05905
+46,Asynchronous Methods for Deep Reinforcement Learning,Volodymyr Mnih et al.,Reinforcement Learning,"a3c,reinforcement learning",Introduces Asynchronous Advantage Actor-Critic (A3C).,https://arxiv.org/abs/1602.01783
+47,Distributed Prioritized Experience Replay,Tom Schaul et al.,Reinforcement Learning,"experience replay,dqn",Improves learning by prioritizing important experiences.,https://arxiv.org/abs/1511.05952
+48,Dreamer: Reinforcement Learning with Latent World Models,Danijar Hafner et al.,Reinforcement Learning,"dreamer,world model",Model-based reinforcement learning using latent dynamics.,https://arxiv.org/abs/1912.01603
+49,Decision Transformer: Reinforcement Learning via Sequence Modeling,Lenny Chen et al.,Reinforcement Learning,"decision transformer,transformer,reinforcement learning",Frames reinforcement learning as sequence modeling.,https://arxiv.org/abs/2106.01345
+50,"MuZero: Mastering Atari, Go, Chess and Shogi without Rules",Julian Schrittwieser et al.,Reinforcement Learning,"muzero,alphago,planning",Learns a model of the environment without knowing its rules.,https://arxiv.org/abs/1911.08265
+51,Denoising Diffusion Probabilistic Models,Jonathan Ho et al.,Generative AI,"ddpm,diffusion,image generation",Introduces diffusion probabilistic models for image generation.,https://arxiv.org/abs/2006.11239
+52,Diffusion Models Beat GANs on Image Synthesis,Prafulla Dhariwal and Alex Nichol,Generative AI,"diffusion,image synthesis",Shows diffusion models outperform GANs in image generation.,https://arxiv.org/abs/2105.05233
+53,High-Resolution Image Synthesis with Latent Diffusion Models,Robin Rombach et al.,Generative AI,"stable diffusion,latent diffusion",Introduces Latent Diffusion Models used in Stable Diffusion.,https://arxiv.org/abs/2112.10752
+54,Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding,Chitwan Saharia et al.,Generative AI,"imagen,diffusion,text-to-image",Google's high-quality text-to-image diffusion model.,https://arxiv.org/abs/2205.11487
+55,DALL·E: Zero-Shot Text-to-Image Generation,Aditya Ramesh et al.,Generative AI,"dalle,text-to-image,generative ai",Generates images directly from natural language descriptions.,https://arxiv.org/abs/2102.12092
+56,LLaMA: Open and Efficient Foundation Language Models,Hugo Touvron et al.,Large Language Models,"llama,llm,foundation model",Meta's open foundation language model for research.,https://arxiv.org/abs/2302.13971
+57,LLaMA 2: Open Foundation and Fine-Tuned Chat Models,Hugo Touvron et al.,Large Language Models,"llama2,llm,chat model",Open-source large language models fine-tuned for dialogue.,https://arxiv.org/abs/2307.09288
+58,LoRA: Low-Rank Adaptation of Large Language Models,Edward J. Hu et al.,Large Language Models,"lora,fine tuning,llm",Parameter-efficient fine-tuning of large language models.,https://arxiv.org/abs/2106.09685
+59,QLoRA: Efficient Finetuning of Quantized LLMs,Tim Dettmers et al.,Large Language Models,"qlora,llm,quantization",Fine-tunes quantized LLMs while reducing memory usage.,https://arxiv.org/abs/2305.14314
+60,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,Patrick Lewis et al.,Large Language Models,"rag,retrieval,generation",Combines retrieval with generation for question answering.,https://arxiv.org/abs/2005.11401
+61,Self-Instruct: Aligning Language Models with Self-Generated Instructions,Yizhong Wang et al.,Large Language Models,"instruction tuning,llm",Improves instruction following using self-generated tasks.,https://arxiv.org/abs/2212.10560
+62,Toolformer: Language Models Can Teach Themselves to Use Tools,Timo Schick et al.,Large Language Models,"toolformer,llm,agents",Allows language models to learn tool usage automatically.,https://arxiv.org/abs/2302.04761
+63,Chain-of-Thought Prompting Elicits Reasoning in Large Language Models,Jason Wei et al.,Large Language Models,"chain of thought,llm,prompting",Shows reasoning improvements using chain-of-thought prompting.,https://arxiv.org/abs/2201.11903
+64,PaLM: Scaling Language Modeling with Pathways,Aakanksha Chowdhery et al.,Large Language Models,"palm,llm,google",Large-scale language model developed by Google.,https://arxiv.org/abs/2204.02311
+65,FLAN: Finetuned Language Models are Zero-Shot Learners,Hyung Won Chung et al.,Large Language Models,"flan,instruction tuning,llm",Instruction tuning greatly improves zero-shot performance.,https://arxiv.org/abs/2210.11416
+66,Wide & Deep Learning for Recommender Systems,Heng-Tze Cheng et al.,Recommendation Systems,"recommendation system,deep learning",Combines memorization and generalization for recommendations.,https://arxiv.org/abs/1606.07792
+67,Neural Collaborative Filtering,Xiangnan He et al.,Recommendation Systems,"collaborative filtering,recommendation",Uses neural networks for collaborative filtering.,https://arxiv.org/abs/1708.05031
+68,BPR: Bayesian Personalized Ranking from Implicit Feedback,Steffen Rendle et al.,Recommendation Systems,"bpr,recommendation",Ranking optimization for implicit feedback recommendation.,https://arxiv.org/abs/1205.2618
+69,Factorization Machines,Steffen Rendle,Recommendation Systems,"factorization machines,recommendation",General predictor using factorized interactions.,https://ieeexplore.ieee.org/document/5694074
+70,DeepFM: A Factorization-Machine based Neural Network for CTR Prediction,Huifeng Guo et al.,Recommendation Systems,"deepfm,ctr,recommendation",Combines factorization machines and deep learning for recommendation.,https://arxiv.org/abs/1703.04247
+71,AutoRec: Autoencoders Meet Collaborative Filtering,Suvash Sedhain et al.,Recommendation Systems,"autorec,autoencoder,recommendation",Applies autoencoders to collaborative filtering for personalized recommendations.,https://dl.acm.org/doi/10.1145/2740908.2742726
+72,Deep Interest Network for Click-Through Rate Prediction,Guorui Zhou et al.,Recommendation Systems,"din,ctr,recommendation",Models user interests dynamically for click-through rate prediction.,https://arxiv.org/abs/1706.06978
+73,Graph Convolutional Matrix Completion,Rianne van den Berg et al.,Recommendation Systems,"graph neural network,recommendation,matrix completion",Uses graph convolutional networks for recommendation systems.,https://arxiv.org/abs/1706.02263
+74,PinSage: Graph Convolutional Neural Networks for Web-Scale Recommender Systems,Rex Ying et al.,Recommendation Systems,"pinsage,graph neural network,recommendation",Scalable graph-based recommendation system developed at Pinterest.,https://arxiv.org/abs/1806.01973
+75,Session-Based Recommendations with Recurrent Neural Networks,Balázs Hidasi et al.,Recommendation Systems,"gru,recommendation,session",Uses recurrent neural networks for session-based recommendation.,https://arxiv.org/abs/1511.06939
+76,Graph Attention Networks,Petar Veličković et al.,Graph Neural Networks,"gat,graph neural network,attention",Introduces attention mechanisms for graph neural networks.,https://arxiv.org/abs/1710.10903
+77,Semi-Supervised Classification with Graph Convolutional Networks,Thomas Kipf and Max Welling,Graph Neural Networks,"gcn,graph neural network",Introduces Graph Convolutional Networks for semi-supervised learning.,https://arxiv.org/abs/1609.02907
+78,GraphSAGE: Inductive Representation Learning on Large Graphs,William Hamilton et al.,Graph Neural Networks,"graphsage,graph embedding",Learns node embeddings for previously unseen graph nodes.,https://arxiv.org/abs/1706.02216
+79,Node2Vec: Scalable Feature Learning for Networks,Aditya Grover and Jure Leskovec,Graph Neural Networks,"node2vec,graph embedding",Efficient feature learning for graph-structured data.,https://arxiv.org/abs/1607.00653
+80,DeepWalk: Online Learning of Social Representations,Bryan Perozzi et al.,Graph Neural Networks,"deepwalk,graph embedding",Learns latent graph representations using random walks.,https://arxiv.org/abs/1403.6652
+81,LIME: Why Should I Trust You? Explaining the Predictions of Any Classifier,Marco Tulio Ribeiro et al.,Explainable AI,"lime,explainable ai",Model-agnostic explanations for machine learning predictions.,https://arxiv.org/abs/1602.04938
+82,SHAP: A Unified Approach to Interpreting Model Predictions,Scott M. Lundberg and Su-In Lee,Explainable AI,"shap,explainable ai",Introduces SHAP values for interpreting machine learning models.,https://arxiv.org/abs/1705.07874
+83,The Mythos of Model Interpretability,Zachary C. Lipton,Explainable AI,"interpretability,machine learning",Discusses the meaning and limitations of interpretability in AI.,https://arxiv.org/abs/1606.03490
+84,Distilling the Knowledge in a Neural Network,Geoffrey Hinton et al.,Machine Learning,"knowledge distillation,deep learning",Introduces knowledge distillation for compressing neural networks.,https://arxiv.org/abs/1503.02531
+85,Net2Net: Accelerating Learning via Knowledge Transfer,Tianqi Chen et al.,Machine Learning,"transfer learning,knowledge distillation",Accelerates neural network training through knowledge transfer.,https://arxiv.org/abs/1511.05641
+86,FedAvg: Communication-Efficient Learning of Deep Networks from Decentralized Data,Brendan McMahan et al.,Federated Learning,"federated learning,fedavg,distributed learning",Introduces the FedAvg algorithm for decentralized model training.,https://arxiv.org/abs/1602.05629
+87,FedProx: Federated Optimization in Heterogeneous Networks,Tian Li et al.,Federated Learning,"fedprox,federated learning",Improves federated learning under heterogeneous client settings.,https://arxiv.org/abs/1812.06127
+88,AutoML-Zero: Evolving Machine Learning Algorithms Without Human Intervention,Esteban Real et al.,AutoML,"automl,evolutionary algorithms",Automatically discovers machine learning algorithms from scratch.,https://arxiv.org/abs/2003.03384
+89,Efficient Neural Architecture Search via Parameter Sharing,Han Cai et al.,AutoML,"nas,automl,neural architecture search",Introduces efficient neural architecture search using parameter sharing.,https://arxiv.org/abs/1802.03268
+90,Neural Architecture Search with Reinforcement Learning,Barret Zoph and Quoc V. Le,AutoML,"nas,reinforcement learning",Uses reinforcement learning to discover neural network architectures.,https://arxiv.org/abs/1611.01578
+91,Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting,Haoyi Zhou et al.,Time Series,"transformer,time series,forecasting",Efficient Transformer architecture for long-sequence forecasting.,https://arxiv.org/abs/2012.07436
+92,Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting,Bryan Lim et al.,Time Series,"transformer,time series,forecasting",Interpretable Transformer model for multi-horizon forecasting.,https://arxiv.org/abs/1912.09363
+93,N-BEATS: Neural Basis Expansion Analysis for Time Series Forecasting,Boris Oreshkin et al.,Time Series,"n-beats,time series",Deep neural architecture for univariate time series forecasting.,https://arxiv.org/abs/1905.10437
+94,CLIP: Learning Transferable Visual Models From Natural Language Supervision,Alec Radford et al.,Multimodal AI,"clip,vision language,multimodal",Learns image representations using natural language supervision.,https://arxiv.org/abs/2103.00020
+95,BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding,Junnan Li et al.,Multimodal AI,"blip,multimodal,vision language",Unified framework for vision-language understanding and generation.,https://arxiv.org/abs/2201.12086
+96,Flamingo: A Visual Language Model for Few-Shot Learning,Jean-Baptiste Alayrac et al.,Multimodal AI,"flamingo,multimodal",Vision-language model capable of few-shot learning.,https://arxiv.org/abs/2204.14198
+97,Constitutional AI: Harmlessness from AI Feedback,Yuntao Bai et al.,AI Safety,"constitutional ai,alignment,llm",Aligns language models using AI-generated feedback instead of human labels.,https://arxiv.org/abs/2212.08073
+98,Sparks of Artificial General Intelligence: Early Experiments with GPT-4,Sébastien Bubeck et al.,AI Safety,"gpt-4,agi,llm",Investigates whether GPT-4 exhibits early signs of artificial general intelligence.,https://arxiv.org/abs/2303.12712
+99,Constitutional AI: Harmlessness from AI Feedback,Yuntao Bai et al.,AI Safety,"constitutional ai,alignment,llm",Aligns language models using AI-generated feedback instead of human labels.,https://arxiv.org/abs/2212.08073
+100,Red Teaming Language Models to Reduce Harms,Deep Ganguli et al.,AI Safety,"red teaming,llm,safety,alignment",Introduces red teaming methods to identify and reduce harmful behaviors in large language models.,https://arxiv.org/abs/2209.07858

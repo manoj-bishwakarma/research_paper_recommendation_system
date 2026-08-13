@@ -11,3 +11,8 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Personal/test user data — not shipped
+data/users.csv
+data/history.csv
+data/favorites.csv

@@ -19,10 +19,42 @@ class PaperManager:
 
     @classmethod
     def add_paper(cls, paper):
+
+        papers = cls.get_all_papers()
+
+        # Empty field validation
+        for key, value in paper.items():
+
+            if value.strip() == "":
+                raise ValueError(f"{key.replace('_', ' ').title()} cannot be empty.")
+
+        # Duplicate Paper ID
+        for existing in papers:
+
+            if existing["paper_id"] == paper["paper_id"]:
+                raise ValueError("Paper ID already exists.")
+
+        # Duplicate Title
+        for existing in papers:
+
+            if existing["title"].lower() == paper["title"].lower():
+                raise ValueError("Paper title already exists.")
+
+        # Basic URL validation
+        if not (
+                paper["link"].startswith("http://")
+                or paper["link"].startswith("https://")
+        ):
+            raise ValueError(
+                "Paper link must start with http:// or https://"
+            )
+
         FileManager.append_csv(
+
             cls.PAPERS_FILE,
             cls.PAPER_FIELDS,
             paper
+
         )
 
     @classmethod
