@@ -71,12 +71,16 @@ research_paper_recommendation_system/
 python main.py
 ```
 
-## Future Enhancements
-
+* ## Future Enhancements
 * Implement advanced recommendation algorithms
 * Develop a graphical user interface (GUI)
 * Integrate relational databases such as MySQL or PostgreSQL
 * Deploy as a web application using FastAPI or Django
+* Add password hashing with per-user salt (bcrypt/PBKDF2) for stronger security
+* Add unit tests for authentication, paper management, and recommendation logic
+* Support exporting recommended/favorite papers as PDF or CSV
+* Add pagination for viewing large paper collections
+* Allow filtering recommendations by multiple categories or keywords at once
 
 ## Author
 
