@@ -55,7 +55,7 @@ research_paper_recommendation_system/
 ├── recommendation_engine.py
 ├── train_model.py
 ├── model/
-│   ├── recommendation_model.pkl
+│   ├── model.pkl
 │   └── vectorizer.pkl
 │
 ├── admin.py
