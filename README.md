@@ -38,14 +38,10 @@ The system uses a content-based recommendation approach and stores all applicati
 
 ## Project Structure
 
-```
 research_paper_recommendation_system/
 │
 ├── data/
-│   ├── users.csv
-│   ├── papers.csv
-│   ├── history.csv
-│   └── favorites.csv
+│ └── papers.csv
 │
 ├── main.py
 ├── authentication.py
@@ -55,14 +51,30 @@ research_paper_recommendation_system/
 ├── recommendation_engine.py
 ├── train_model.py
 ├── model/
-│   ├── model.pkl
-│   └── vectorizer.pkl
+│ ├── model.pkl
+│ └── vectorizer.pkl
 │
 ├── admin.py
 ├── user.py
 ├── research_paper.py
 ├── file_manager.py
+├── requirements.txt
 └── README.md
+
+
+> Note: `users.csv`, `history.csv`, and `favorites.csv` are created automatically in `data/` the first time you register a user or interact with a paper — they aren't tracked in this repo.
+
+## Installation
+
+1. Clone the repository
+```bash
+   git clone https://github.com/manoj-bishwakarma/research_paper_recommendation_system.git
+   cd research_paper_recommendation_system
+```
+
+2. Install dependencies
+```bash
+   pip install -r requirements.txt
 ```
 
 ## Run the Project
